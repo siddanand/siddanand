@@ -1,10 +1,13 @@
 ## Hola, I'm Siddharth Anand!👋
 
 <a href="https://www.linkedin.com/in/siddharthanand1998/">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sidd's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/siddanand">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Sidd's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://codesandbox.io/u/chandiboy.18">
+  <img align="left" alt="Sidd's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codesandbox.svg" />
 </a>
 <br/>
 <br/>
