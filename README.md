@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hola, I'm Siddharth Anand!👋
 
-<!--
-**siddanand/siddanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/siddharthanand1998/">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/siddanand">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br/>
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [React](https://reactjs.org/).
+- 🌱 I’m currently learning more about [Three.js](https://threejs.org/).
+- 💬 Ask me about React or any tech-related stuff.
+- ⚡ Fun fact: I love to travel, listen to music, anime, sports and driving.
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+<a href="https://github.com/siddanand">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=siddanand&show_icons=true&theme=dark&line_height=27" alt="Sidd's github stats"/>
+</a>
+<a href="https://github.com/siddanand">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddanand&theme=dark&hide_langs_below=1" />
+</a>
+
